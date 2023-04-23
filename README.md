@@ -25,6 +25,6 @@ Explanation: Possible arrays are [1317],[131,7],[13,17],[1,317],[13,1,7],[1,31,7
 
 Constraints:
 
-1 <= s.length <= 105
+1 <= s.length <= 10^5
 s consists of only digits and does not contain leading zeros.
-1 <= k <= 109
+1 <= k <= 10^9
